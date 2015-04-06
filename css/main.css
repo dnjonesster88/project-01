@@ -1,0 +1,16 @@
+/* Enter your custom CSS here */
+
+
+
+* {font-family:Verdana, Geneva, sans-serif}
+
+.mainTitle {color:#666666; margin-bottom:25px; font-size:45px; margin-top:50px}
+
+h2 {font-weight:bold; color: #f07c17; margin-bottom:30px; font-size:1.7em; margin-top:5px}
+
+p {line-height:2em; color:#666666; font-size:16px}
+
+#mainFeaturesBox {border: 1px solid #cccccc; padding:24px; margin:0;  margin-top: 30px;}
+
+ul li {padding-bottom:8px; color:#666666; font-size:16px}
+
