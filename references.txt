@@ -1,0 +1,6 @@
+Here are the references I used:
+
+
+1). http://www.sitepoint.com/
+2). http://getbootstrap.com/getting-started/
+3). http://validator.w3.org/
